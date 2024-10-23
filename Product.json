@@ -1,0 +1,122 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 999,
+    "qty": 10,
+    "company": "Apple"
+  },
+  {
+    "name": "iPhone SE",
+    "price": 499,
+    "qty": 8,
+    "company": "Apple"
+  },
+  {
+    "name": "MacBook Air",
+    "price": 1299,
+    "qty": 5,
+    "company": "Apple"
+  },
+  {
+    "name": "Redmi Note 11",
+    "price": 199,
+    "qty": 20,
+    "company": "Redmi"
+  },
+  {
+    "name": "Redmi K40",
+    "price": 349,
+    "qty": 15,
+    "company": "Redmi"
+  },
+  {
+    "name": "Redmi AirDots",
+    "price": 29,
+    "qty": 100,
+    "company": "Redmi"
+  },
+  {
+    "name": "Vivo V21",
+    "price": 299,
+    "qty": 12,
+    "company": "Vivo"
+  },
+  {
+    "name": "Vivo Y20",
+    "price": 149,
+    "qty": 50,
+    "company": "Vivo"
+  },
+  {
+    "name": "Vivo X60 Pro",
+    "price": 899,
+    "qty": 7,
+    "company": "Vivo"
+  },
+  {
+    "name": "Tata Nano",
+    "price": 2000,
+    "qty": 5,
+    "company": "Tata"
+  },
+  {
+    "name": "Tata Harrier",
+    "price": 25000,
+    "qty": 3,
+    "company": "Tata"
+  },
+  {
+    "name": "Tata Nexon",
+    "price": 22000,
+    "qty": 10,
+    "company": "Tata"
+  },
+  {
+    "name": "Tata Altroz",
+    "price": 18000,
+    "qty": 7,
+    "company": "Tata"
+  },
+  {
+    "name": "Kawasaki Ninja ZX-10R",
+    "price": 15000,
+    "qty": 2,
+    "company": "Kawasaki"
+  },
+  {
+    "name": "Kawasaki Ninja H2",
+    "price": 30000,
+    "qty": 1,
+    "company": "Kawasaki"
+  },
+  {
+    "name": "Kawasaki Z900",
+    "price": 11000,
+    "qty": 4,
+    "company": "Kawasaki"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 999,
+    "qty": 8,
+    "company": "Apple"
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "price": 399,
+    "qty": 15,
+    "company": "Apple"
+  },
+  {
+    "name": "Redmi Smart TV",
+    "price": 549,
+    "qty": 6,
+    "company": "Redmi"
+  },
+  {
+    "name": "Vivo TWS Earphones",
+    "price": 99,
+    "qty": 40,
+    "company": "Vivo"
+  }
+]
