@@ -5,7 +5,7 @@ import Router from './Routes/ProductRoute.js'
 
 dotenv.config()
 const app = express();
-const Port = process.env.PORT
+const Port = process.env.PORT;
 
 
 app.use('/api',Router);
